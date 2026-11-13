@@ -82,3 +82,11 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadbusni&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
 </div>
+
+---
+
+### Current focus
+
+- Building full-stack web applications and polished digital products
+- Exploring practical AI tools and workflow automation
+- Improving the bridge between development, design, and user experience
